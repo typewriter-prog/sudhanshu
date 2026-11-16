@@ -11,7 +11,7 @@ window.PORTFOLIO = {
 
   /* ---------- 1. SITE SETTINGS ---------- */
   settings: {
-    siteTitle: "Aarav Mehta — Player One",          // Browser tab title
+    siteTitle: "Sudhanshu Pathak — Player One",          // Browser tab title
     siteDescription: "B.Tech CSE student portfolio — projects, skills and journey.",
     theme: "synthwave",        // "synthwave" | "matrix" | "sunset" | "ocean"
     bootScreen: true,          // Show the "press start" intro screen
